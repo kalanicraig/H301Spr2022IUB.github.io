@@ -1,3 +1,7 @@
+---
+permalink: ec.html
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [Ophelia by John Everett](https://www.tate.org.uk/art/responses-tates-collection-our-disability-network) to maintain and preview the content for your website in Markdown files.
